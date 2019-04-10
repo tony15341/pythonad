@@ -1,2 +1,6 @@
 print("hello world!;")
 print("hello;")
+print("hello mfk;")
+print("hello world!;")
+print("hello;")
+
